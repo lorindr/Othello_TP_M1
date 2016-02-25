@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Othello_TP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_choix_param_jeu">choix_param_jeu</string>
+    <string name="title_activity_grille_principale">grille_principale</string>
+    <string name="title_activity_parametre">parametre</string>
+    <string name="title_activity_statistiques">statistiques</string>
+    <string name="title_activity_aide">aide</string>
+    <string name="title_activity_parametre_partie">parametre_partie</string>
+</resources>
